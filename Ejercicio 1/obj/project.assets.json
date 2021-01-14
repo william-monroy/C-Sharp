@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\William\\Documents\\C Sharp\\C Sharp.csproj",
+      "projectUniqueName": "c:\\Users\\William\\Documents\\C Sharp\\Ejercicio 1\\C Sharp.csproj",
       "projectName": "C Sharp",
-      "projectPath": "C:\\Users\\William\\Documents\\C Sharp\\C Sharp.csproj",
+      "projectPath": "c:\\Users\\William\\Documents\\C Sharp\\Ejercicio 1\\C Sharp.csproj",
       "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\William\\Documents\\C Sharp\\obj\\",
+      "outputPath": "c:\\Users\\William\\Documents\\C Sharp\\Ejercicio 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
